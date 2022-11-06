@@ -2,55 +2,55 @@
     "practicas": [{
             "id": 1,
             "cod_nom": 420101,
-            "nombreP": "Consulta de Guardia",
+            "nombreP": "CONSULTA DE GUARDIA",
             "coseguro": 500
         },
         {
             "id": 2,
             "cod_nom": 425014,
-            "nombreP": "Consulta Medica Especialista",
+            "nombreP": "CONSULTA MEDICA ESPECIALISTA",
             "coseguro": 1000
         },
         {
             "id": 3,
             "cod_nom": 180101,
-            "nombreP": "Ecografia",
+            "nombreP": "ECOGRAFIA",
             "coseguro": 1500
         },
         {
             "id": 4,
             "cod_nom": 190101,
-            "nombreP": "Placa",
+            "nombreP": "PLACA",
             "coseguro": 800
         },
         {
             "id": 5,
             "cod_nom": 200101,
-            "nombreP": "Resonancia Magnetica",
+            "nombreP": "RESONANCIA MAGNETICA",
             "coseguro": 2200
         },
         {
             "id": 6,
             "cod_nom": 300101,
-            "nombreP": "Analisis de Sangre",
+            "nombreP": "ANALISIS DE SANGRE",
             "coseguro": 3000
         },
         {
             "id": 7,
             "cod_nom": 400101,
-            "nombreP": "Odontologia",
+            "nombreP": "ODONTOLOGIA",
             "coseguro": 5000
         },
         {
             "id": 8,
             "cod_nom": 500101,
-            "nombreP": "Kinesiologia",
+            "nombreP": "KINESIOLOGIA",
             "coseguro": 300
         },
         {
             "id": 9,
             "cod_nom": 990101,
-            "nombreP": "Ecodoppler",
+            "nombreP": "ECODOPLER",
             "coseguro": 1350
         }
     ]
