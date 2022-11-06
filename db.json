@@ -30,6 +30,12 @@
             "coseguro": 2200
         },
         {
+            "id": 10,
+            "cod_nom": 200101,
+            "nombreP": "RESONANCIA MAGNETICA CON CONTRASTE",
+            "coseguro": 2200
+        },
+        {
             "id": 6,
             "cod_nom": 300101,
             "nombreP": "ANALISIS DE SANGRE",
